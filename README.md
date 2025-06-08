@@ -1,16 +1,73 @@
-## Hi there 👋
-
-<!--
-**LilianeTraba/lilianetraba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cartão Digital - Liliane Traba</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f0e6f5;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    .card {
+      background-color: #e6d3f5;
+      width: 300px;
+      padding: 20px;
+      border-radius: 15px;
+      text-align: center;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .logo {
+      width: 100px;
+      height: auto;
+    }
+    h1 {
+      color: #6a0dad;
+      font-size: 24px;
+      margin: 10px 0;
+    }
+    p {
+      color: #4a148c;
+      font-size: 16px;
+      margin: 5px 0;
+    }
+    a {
+      color: #4a148c;
+      text-decoration: none;
+      font-size: 16px;
+      margin: 0 10px;
+    }
+    a:hover {
+      color: #8e24aa;
+    }
+    .contact-icons {
+      margin-top: 15px;
+    }
+    .contact-icons a {
+      margin: 0 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczNcJJrt3iHN1A7bO7hB35fRQ0jannma7Hg1OLuHCtbyKiW3qJVj3VaO8h8ulflvE-LE-Wr7TTT27W40m-YzfpfR6ZQjbcRAokKp9oguLy78AHvcaTmof3i1sKHWXZuxb_mgEuFxagnpGbS61ha_OrA=w633-h633-s-no-gm?authuser=1" alt="Logo Liliane Traba" class="logo">
+    <h1>Liliane Traba</h1>
+    <p>Psicóloga Clínica</p>
+    <p>CRP 05/64065</p>
+    <p><strong>Transformação começa pelo autoconhecimento</strong></p>
+    <div class="contact-icons">
+      <a href="https://wa.me/21999169738" target="_blank"><img src="https://img.icons8.com/ios-filled/20/4a148c/whatsapp.png" alt="WhatsApp"></a>
+      <a href="mailto:lilianetrabapsi@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-filled/20/4a148c/email.png" alt="Email"></a>
+      <a href="https://instagram.com/lilianetraba" target="_blank"><img src="https://img.icons8.com/ios-filled/20/4a148c/instagram.png" alt="Instagram"></a>
+    </div>
+    <p><a href="https://wa.me/21999169738">+55 (21) 99916-9738</a></p>
+    <p><a href="mailto:lilianetrabapsi@gmail.com">lilianetrabapsi@gmail.com</a></p>
+    <p><a href="https://instagram.com/lilianetraba">@lilianetraba</a></p>
+  </div>
+</body>
+</html>![ChatGPT Image 6 de jun  de 2025, 13_27_33](https://github.com/user-attachments/assets/2f236650-9fa1-42ec-98f4-85103a9a80de)
